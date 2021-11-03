@@ -1,0 +1,210 @@
+.menu{
+	text-align: center;
+	position: fixed;
+	width: 100%;
+	background-color: #ffffff;
+	top: 0px;
+	opacity: 0.7;
+}
+.menu a{
+	color: black;
+	text-decoration: none;
+	display: inline-block;
+	width: 100px;
+	font-weight: 950;
+	padding: 20px 40px;
+}
+.menu a:hover{
+	background-color: #ccc;
+}
+body{
+	margin: 0;
+}
+.header{
+	background-image: url(images/polygons.png);
+	background-repeat: no-repeat;
+	background-position: top center;
+	padding: 200px 0;
+	background-color: #000000;
+	text-align: center;
+	color: #FFFFFF;
+	margin-top: 60px;
+	background-attachment: fixed;
+}
+.amogussss img{
+	float: right;
+	width: 400px;
+	margin: 30px;
+	margin-top: 0;
+}
+.amogussss{
+	max-width: 1200px;
+	padding: 40px 0;
+	margin: 0 auto;
+}
+.amogussss p{
+	text-align: justify;
+}
+.narutomania{
+	text-align: center;
+}
+.portal{
+	background-color: #ffffff;
+	color: #000000;
+	padding: 12px 24px;
+	border-radius: 10px;
+	text-decoration: none;
+	display: inline-block;
+	margin-top: 30px;
+}
+.portal:hover{
+	color: #ffffff;
+	background-color: #000000;
+}
+.comanda7{
+	display: inline-block;
+	width: 20%;
+	margin: 20px 10px;
+	box-shadow: 0 2px 10px;
+	padding: 20px;
+	text-align: left;
+}
+.comanda7 img{
+	width: 100%;
+	height: 552px;
+}
+.comanda7 h3{
+	font-size: 24px;
+	font-weight: 400;
+}
+.predsedatelcolhoza{
+	opacity: 0.7;
+ }
+  .narutomania a{
+ 	color: #ffffff;
+	text-decoration: none;
+	display: inline-block;
+	width: 100%;
+	padding: 14px 0;
+	background-color: red;
+	border-radius: 10px;
+	text-align: center;
+ }
+ .narutomania a:hover{
+  	background-color: grey;
+  	color: #000000;
+ }
+ .dr img{
+  	width: 1000px;
+ }
+ .kage li{
+  	list-style-type: none;
+  	border-bottom: 1px solid #dddddd;
+  	padding: 16px 0px;
+ }
+.kage .golova{
+  	background-color: #000000;
+  	color: #ffffff;
+  	padding: 32px 0;
+  	font-size: 24px;
+ }
+.kage .golova_golovi{
+  	background-color: #055b73;
+  	padding: 48px 0;
+
+ }
+.kage{
+	display: inline-block;
+	width: 30%;
+	padding: 0;
+	margin: 10px;
+	background-color: #ffffff;
+	vertical-align: middle;
+	min-width: 150px;
+}
+.kage li:last-child{
+	background-color: #f1f1f1;
+	padding: 24px 0;
+}
+.aboba_prices{
+	background-color: grey;
+	text-align: center;
+	padding: 20px;
+}
+.aboba_prices h2{
+	color: #ffffff;
+}
+.aboba_prices p{
+	color: #ffffff;
+}
+.aboba_prices a{
+	background-color: #000000;
+	padding: 10px;
+	border-radius: 10px;
+	text-decoration: none;
+	color: #ffffff
+}
+.aboba_prices a:hover{
+	background-color: #D1D1D1;
+	color: #000000;	
+}
+.aboba_prices .abobus1{
+	font-weight: bold;
+	font-size: 25px;
+	color:#000000;
+}
+.aboba_prices .abobus2{
+	color: #000000;
+	opacity:0.5;
+}
+.kontakti h2 {
+	text-align: center;
+}
+.adresss{
+	background-image: url(images/address.png);	
+}
+.telefon{
+	background-image: url(images/phone.png);
+}
+.eMail{
+	background-image: url(images/mail.png);
+}
+.podval{
+	background-color: black;
+}
+.podval p{
+	color: white;
+	margin: 0;
+}
+.infoaboba{
+	background-repeat: no-repeat;
+	text-align: left;
+	padding-left: 30px;
+	background-position: left center;
+	background-size: 18px 18px;
+	margin-left: 5%;
+}
+.kontakti input{
+	width: 90%;
+	padding: 8px;
+}
+.kontakti{
+	text-align: center;
+	padding: 40px 0;
+	background-color: #F1F1F1;
+}
+.kontakti .litoypokemon228{
+	background-color: darkred;
+	color: #000000;
+	width: 270px;
+	border-radius: 15px;
+	padding: 8px 16px;
+	display: inline-block;
+	border:none;
+	outline: none;
+}
+.kontakti .litoypokemon228:hover{
+	background-color: darkorange;
+	color: #ffffff;
+	cursor: pointer;
+}
